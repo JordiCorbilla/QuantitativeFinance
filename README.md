@@ -4,7 +4,10 @@ Welcome to the QuantitativeFinance repository! This repository is dedicated to e
 
 # What's Inside?
 
-## Options Pricing Models (Black-Scholes)
+## 1) Stochastic Processes (Fractional Brownian Motion)
+In this section, we delve into the fascinating world of stochastic processes, with a particular focus on Fractional Brownian Motion (fBm). Stochastic processes are at the heart of quantitative finance, allowing us to model the random behavior of financial variables over time. fBm, known for its long-range dependence and multifractal properties, plays a crucial role in understanding and modeling financial data.
+
+## 2) Options Pricing Models (Black-Scholes)
 Options pricing is a fundamental concept in finance, and the Black-Scholes Model is a cornerstone of this field. We explore the Black-Scholes Model in-depth, providing insights into how it's used to determine the theoretical price of European-style options. Whether you're new to options pricing or seeking a deeper understanding, this section has you covered.
 
 # What's Next?
