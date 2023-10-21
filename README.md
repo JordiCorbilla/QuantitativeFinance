@@ -10,6 +10,9 @@ In this section, we delve into the fascinating world of stochastic processes, wi
 ## 2) Options Pricing Models (Black-Scholes)
 Options pricing is a fundamental concept in finance, and the Black-Scholes Model is a cornerstone of this field. We explore the Black-Scholes Model in-depth, providing insights into how it's used to determine the theoretical price of European-style options. Whether you're new to options pricing or seeking a deeper understanding, this section has you covered.
 
+## 3) Monte Carlo Method for Option Pricing
+Dive into the powerful Monte Carlo method for option pricing. Learn how to simulate stock price paths, calculate option payoffs, and estimate option prices under various scenarios. Gain insights into risk assessment and option price determination using this versatile numerical technique.
+
 # What's Next?
 We'll continue expanding this repository with detailed explanations, Python code examples, and visualizations for various quantitative finance topics. Our goal is to provide a valuable resource for learning and applying quantitative techniques in finance.
 
